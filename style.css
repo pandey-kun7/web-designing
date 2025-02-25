@@ -70,7 +70,7 @@ a{
 .third{
     padding:30px;
     text-align: center;
-    background-color: rgb(250, 110, 255);
+    background-color: rgba(0, 162, 255, 0.778);
 }
 .text1{
     font-size: 30px;
@@ -80,7 +80,6 @@ a{
 }
 .qw,.we,.er,.rt{
     width: 100px;
-    border-color: blueviolet;
     height: 100px;
     border-width: 5px;
     border-style:double;
@@ -108,7 +107,7 @@ a{
     padding:80px;
     display: flex;
     justify-content: center;
-    background-color: rgb(252, 255, 94);
+    background-color: rgb(227, 179, 179);
 }
 .op{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;

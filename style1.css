@@ -1,0 +1,84 @@
+.ab{
+    font-size: 35px;
+    color:blue;
+    font-weight: bold;
+}
+.black{
+    background-color: #1F2937;
+    color:white;
+    font-size: x-large;
+    padding:10px;
+}
+.roboto-body {
+    font-family: "Roboto", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  } 
+.fr,.ae{
+    font-size: 40px;
+}
+body{
+    margin:0px;
+}
+.aw,.de{
+    padding-top:30px;
+}
+.ae{
+    padding-bottom:30px;
+}
+.de,.ge.ia{
+    padding-top:30px;
+}
+.da{
+    font-weight:900;
+    font-size: 48px;
+    color: #f9faf8;
+    padding-bottom: 20px;
+}
+.ga{
+    font-size:18px;
+    color:#E5E7EB;
+    padding-bottom: 30px;
+}
+.ie{
+    font-size:18px;
+    color: #f9faf8;
+    padding-bottom: 20px;
+}
+.pa,.aw,.de,.ge,.ia{
+    font-size:20px;
+}
+.hi{
+    color:#3882F6;
+    padding-bottom:20px;
+    font-weight: 500;
+}
+.hu{
+    padding-top:20px;
+}
+.yi{
+    padding-bottom:20px;
+    font-size: 36px;
+    font-weight: 900;
+    color:#1F2937;
+}
+.ou,.ju{
+    padding-bottom:7px;
+    padding-top: 10px ;
+}
+.Grey{
+    background-color: #E5E7EB;
+}
+.ji{
+    padding-top: 5px;
+    font-weight:300;
+}
+.oi{
+    font-size:36px ;
+    font-style:italic;
+    padding-bottom:30px;
+}
+.pa,.aw,.de,.ge,.ia,.hu,.yu,.ju,.ou{
+    font-weight: bold;
+    font-size:13px;
+}
